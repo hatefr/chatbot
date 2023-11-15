@@ -1,0 +1,9 @@
+langchain
+openai
+faiss-cpu
+unstructured
+tiktoken
+rich #for console formatting
+gradio
+wikipedia-api
+python-dotenv
